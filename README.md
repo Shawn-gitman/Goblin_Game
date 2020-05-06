@@ -9,7 +9,7 @@ GoblinGame is the simple application developed by pygame.  GoblinGame uses SDL(S
 
 ## Installing
 
-```c
+```
 #include<stdio.h>
 int main(void)
 {
