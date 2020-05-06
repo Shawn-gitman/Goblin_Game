@@ -1,6 +1,6 @@
 # Goblin_Game
 
-GoblinGame is the simple application developed by pygame.  GoblinGame uses SDL(Simple DirectMedia Layer) Library within allowing real-time developing environment. Application is based on high-level programming language, Python. Python structures the code to faciliate the efficiency of the frameworks. GoblinGame loads audio and multiple photos assembles the GUI(Graphical User interface). Developed in the IDE, visual studio code. It can be easily executed through Windows Powershell or should be work text editor limitedly.
+GoblinGame is the simple application developed by pygame.  GoblinGame uses SDL(Simple DirectMedia Layer) Library within allowing real-time developing environment. Application is based on high-level programming language, Python. Python structures the code to faciliate the efficiency of the frameworks. GoblinGame loads audio and multiple photos assembles the GUI(Graphical User interface). Developed in the IDE, visual studio code. It can be easily executed through Windows Powershell or should be work in text editor limitedly.
 
 ## Prerequisites
 
