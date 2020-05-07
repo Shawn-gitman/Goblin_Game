@@ -6,6 +6,7 @@
 * 3.dynamically typed
 * 4.free and open source
 * 5.vast libraries support.
+
  GoblinGame uses SDL(Simple DirectMedia Layer) Library with allowing real-time developing environment. Random and Sprite are typical libraries used in this platform. This language structures the code to faciliate the frameworks. In other words, source code is classified with class and definition to let the code easily insert integer and character values. As python is known as productivity language, we decide to work codes as simple as possible. This game also executes the code line by line. GoblinGame loads mp3, JPEG and Png files to generate the GUI(Graphical User interface). If error happens, it stops further execution and reports back the error which has occurred. Developed in the IDE, visual studio code. It can be easily executed through Windows Powershell or should be work in text editor limitedly.
 
 ## Prerequisites
