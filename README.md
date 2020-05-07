@@ -14,9 +14,9 @@ GoblinGame is the simple application developed within pygame. This application i
 ```
 git clone -n <repo-url>
 ```
-2. Step Two : check out the file you want.
+2. Step Two : check out the file.
 ```
-git clone -n <repo-url>
+git checkout master -- path/within/repo/to/file
 ```
 
 ## Running the tests
