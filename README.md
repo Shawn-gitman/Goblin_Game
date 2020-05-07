@@ -1,11 +1,12 @@
 # Goblin_Game
 
-GoblinGame is the simple application developed by pygame.  GoblinGame uses SDL(Simple DirectMedia Layer) Library within allowing real-time developing environment. Application is based on high-level programming language, Python. Python structures the code to faciliate the efficiency of the frameworks. GoblinGame loads audio and multiple photos assembles the GUI(Graphical User interface). Developed in the IDE, visual studio code. It can be easily executed through Windows Powershell or should be work in text editor limitedly.
+GoblinGame is the simple application developed within pygame. This application is based on high-level programming language, Python. The reasons for using python are 1.Improved productivity, 2.interpreted language, 3.dynamically typed, 4.free and open source and the last, 5.vast libraries support. GoblinGame uses SDL(Simple DirectMedia Layer) Library with allowing real-time developing environment. Random and Sprite are typical libraries used in this platform. This language structures the code to faciliate the frameworks. In other words, source code is classified with class and definition to let the code easily insert integer and character values. As python is known as productivity language, we decide to work codes as simple as possible. This game also executes the code line by line. GoblinGame loads mp3, JPEG and Png files to generate the GUI(Graphical User interface). If error happens, it stops further execution and reports back the error which has occurred. Developed in the IDE, visual studio code. It can be easily executed through Windows Powershell or should be work in text editor limitedly.
 
 ## Prerequisites
 
 * Python (3.8.2)
 * Pygame (1.9.1)
+* Visual Studio Code (Recommended but not obligatory)
 
 ## Installing
 
@@ -32,7 +33,9 @@ No coding style tests required.
 
 ## Built With
 
-pass
+* Python (3.8.2) : Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
+* Pygame (1.9.1) : Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
+* Visual Studio Code : Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS.[6] It includes embedded Git and support for debugging, syntax highlighting, intelligent code completion, snippets, and code refactoring. It is highly customizable, allowing users to change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality. The source code is free and open-source, released under the permissive MIT License.[7] The compiled binaries are freeware for any use.
 
 ## Contributing
 
