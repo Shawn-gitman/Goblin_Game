@@ -28,7 +28,7 @@ git checkout master -- path/within/repo/to/file
 
 ## Running the tests
 
-* Run intro.py to see the result of the man shooting bullets. Your score is on the top of the screen. You get score 1 by hitting goblin with bullets and subtract score 5 if you are hit by goblins.
+* Run intro.py to see the result of the man shooting bullets. Your score is on the top right screen. You get 1 score by hitting goblin with bullets and subtract score 5 if you are hit by goblins.
 
 ## Break down into end to end tests
 
