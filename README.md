@@ -1,11 +1,11 @@
 # Goblin_Game
 
  GoblinGame is the simple application developed within pygame. This application is based on high-level programming language, Python. The reasons for using python are 
-* 1.Improved productivity
-* 2.interpreted language
-* 3.dynamically typed
-* 4.free and open source
-* 5.vast libraries support.
+* 1. Improved productivity
+* 2. Interpreted language
+* 3. Dynamically typed
+* 4. Free and open source
+* 5. Vast libraries support.
 
  GoblinGame uses SDL(Simple DirectMedia Layer) Library with allowing real-time developing environment. Random and Sprite are typical libraries used in this platform. This language structures the code to faciliate the frameworks. In other words, source code is classified with class and definition to let the code easily insert integer and character values. As python is known as productivity language, we decide to work codes as simple as possible. This game also executes the code line by line. GoblinGame loads mp3, JPEG and Png files to generate the GUI(Graphical User interface). If error happens, it stops further execution and reports back the error which has occurred. Developed in the IDE, visual studio code. It can be easily executed through Windows Powershell or should be work in text editor limitedly.
 
@@ -28,7 +28,7 @@ git checkout master -- path/within/repo/to/file
 
 ## Running the tests
 
-* Run intro.py to see the result of the man shooting bullets to goblins.
+* Run intro.py to see the result of the man shooting bullets. Your score is on the top of the screen. You get score 1 by hiting goblin with bullets and subtract score 5 by if you are hit by goblins.
 
 ## Break down into end to end tests
 
