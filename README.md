@@ -10,13 +10,13 @@ GoblinGame is the simple application developed within pygame. This application i
 
 ## Installing
 
+1. Step One : Clone the repo without checking out a work tree.
 ```
-#include<stdio.h>
-int main(void)
-{
-printf("Hello Interface!\n");
-return 0;
-}
+git clone -n <repo-url>
+```
+2. Step Two : check out the file you want.
+```
+git clone -n <repo-url>
 ```
 
 ## Running the tests
