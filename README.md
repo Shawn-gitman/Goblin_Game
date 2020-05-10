@@ -1,6 +1,6 @@
 # Goblin_Game
 
- GoblinGame is the simple application developed within pygame. This application is based on high-level programming language, Python. The reasons for using python are 
+ GoblinGame is the simple application developed within pygame. This application is based on high-level programming language, Python. The advantages of using python are 
 * Improved productivity
 * Interpreted language
 * Dynamically typed
